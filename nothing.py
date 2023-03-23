@@ -1,3 +1,3 @@
 def nothing():
-    print("\n\n")
+    print("\n\n\n")
 nothing()
